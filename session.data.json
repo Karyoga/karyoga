@@ -49,15 +49,15 @@
       "deviceSignature": "by2ZCdWWPpqzyF9I0DH2SXPgjSun+AuCzz7wN+NnGVNHmY2JJVY0CN+jD4hTWLqm8e33gpHMuK6QYp/1vv58DA=="
     },
     "me": {
-      "id": "6282218416968:6@s.whatsapp.net",
+      "id": "6282118165484:6@s.whatsapp.net",
       "verifiedName": "",
       "name": "Know Me?",
-      "jid": "6282218416968@s.whatsapp.net"
+      "jid": "6282118165484@s.whatsapp.net"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6282218416968:6@s.whatsapp.net",
+          "name":"6282118165484:6@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
